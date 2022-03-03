@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/88800549/156640397-a7fc3110-0b7e-44ee-b01f-757bb83a3812.png)
 
-![image](https://user-images.githubusercontent.com/88800549/156638297-95fb5f01-410e-48d5-bd58-ee3d6507c29f.png)
+![image](https://user-images.githubusercontent.com/88800549/156640489-018e7090-deda-41f6-9cfa-a0b20425dcee.png)
 
 
 Como a API de informações meteorológicas necessitava de latitude e longitude, foi utilizado uma segunda API para pegar tais informações para poder colocá-las no _fetch_ no arquivo .JS, para assim ter uma utilização mais agradável do usuário.
