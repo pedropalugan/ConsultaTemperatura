@@ -2,6 +2,8 @@ let lat;
 let lon;
 let temp;
 let sens;
+let max;
+let min;
 let clima;
 let x = 1;
 function verificarCord() {
@@ -19,9 +21,13 @@ function verificarCord() {
                     console.log(pronto)
                     temp = pronto['main']['temp'] - 273
                     sens = pronto['main']['feels_like'] - 273
+                    max = pronto['main']['temp_max'] - 273
+                    min = pronto['main']['temp_min'] - 273
                     clima = pronto['weather'][0]['main']
                     document.getElementById("temperatura").value = temp.toFixed(2) + 'C°'
                     document.getElementById("sensacao").value = 'Feels Like ' + sens.toFixed(2) + 'C°'
+                    document.getElementById("temp_max").value = 'Maximum ' + max.toFixed(2) + 'C°'
+                    document.getElementById("temp_min").value = 'Minimum ' + min.toFixed(2) + 'C°'
                     let img = document.getElementById("imagem");
                     img.style.width = "140px";
                     img.style.height = "140px";
