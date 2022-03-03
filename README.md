@@ -12,7 +12,7 @@
 <h3>Projeto</h3>
 <hr>
 
-![image](https://user-images.githubusercontent.com/88800549/156640347-3cc9f1a6-d06d-473d-a63c-53d7cbcffd0f.png)
+![image](https://user-images.githubusercontent.com/88800549/156641147-e027067a-c759-4c16-b54a-7e729f325c9a.png)
 
 ![image](https://user-images.githubusercontent.com/88800549/156640397-a7fc3110-0b7e-44ee-b01f-757bb83a3812.png)
 
