@@ -12,9 +12,9 @@
 <h3>Projeto</h3>
 <hr>
 
-![image](https://user-images.githubusercontent.com/88800549/156638154-6c22d7b2-b9aa-4f2a-9573-c8815d2e7644.png)
+![image](https://user-images.githubusercontent.com/88800549/156640347-3cc9f1a6-d06d-473d-a63c-53d7cbcffd0f.png)
 
-![image](https://user-images.githubusercontent.com/88800549/156638217-2012afa4-3c0d-4587-8b03-6ac9fbf04be7.png)
+![image](https://user-images.githubusercontent.com/88800549/156640397-a7fc3110-0b7e-44ee-b01f-757bb83a3812.png)
 
 ![image](https://user-images.githubusercontent.com/88800549/156638297-95fb5f01-410e-48d5-bd58-ee3d6507c29f.png)
 
