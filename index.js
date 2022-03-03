@@ -21,7 +21,7 @@ function verificarCord() {
                     sens = pronto['main']['feels_like'] - 273
                     clima = pronto['weather'][0]['main']
                     document.getElementById("temperatura").value = temp.toFixed(2) + 'C°'
-                    document.getElementById("sensacao").value = sens.toFixed(2) + 'C°'
+                    document.getElementById("sensacao").value = 'Feels Like ' + sens.toFixed(2) + 'C°'
                     let img = document.getElementById("imagem");
                     img.style.width = "140px";
                     img.style.height = "140px";
