@@ -4,7 +4,7 @@
 
 <b>Primeiro projeto desenvolvido com javascript utilizando API</b>
 
-<b>Nesse projeto deveria pesquisar o nome de uma cidade e o programa retornaria as informações meteorológicas do local</b>
+<b>Nesse projeto deveria pesquisar o nome de uma cidade e o programa retornaria as informações meteorológicas do local pesquisado</b>
 
 <p>Para esse projeto foi utilizadas duas API's uma para pesquisa de latitude e longitude da cidade pesquisada e outra para pegar e retornar as informações meteorológicas dessa, sendo essas API's respectivamente: https://openweathermap.org/api/geocoding-api e https://openweathermap.org/current</p>
 
@@ -25,3 +25,10 @@ Como a API de informações meteorológicas necessitava de latitude e longitude,
 # Tecnologia Utilizada
 
 <b>Javascript, HTML, CSS</b>
+
+<hr>
+
+<h2>English</h2>
+<b>First project developed using API with JavaScript</b>
+
+<b>On this project, it would have to search a name of a certain city and the software would return the meteorological informations about the place searched</b>
