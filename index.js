@@ -10,12 +10,12 @@ function verificarCord() {
     let city = document.getElementById("city").value
     let country = document.getElementById("country").value
     let state = document.getElementById("state").value
-    fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${city},${state},${country}&limit=1&appid=ecfa118ceb3df32494eb9d4f43d255c7`)
+    fetch(`https://api.openweathermap.org/geo/1.0/direct?q=${city},${state},${country}&limit=1&appid=ecfa118ceb3df32494eb9d4f43d255c7`)
         .then((Response) => Response.json())
         .then((ready) => {
             lat = ready[0]['lat']
             lon = ready[0]['lon']
-            fetch(`http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=ecfa118ceb3df32494eb9d4f43d255c7`)
+            fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=ecfa118ceb3df32494eb9d4f43d255c7`)
                 .then((Answer) => Answer.json())
                 .then((pronto) => {
                     console.log(pronto)
