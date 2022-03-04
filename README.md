@@ -20,3 +20,8 @@
 
 
 Como a API de informações meteorológicas necessitava de latitude e longitude, foi utilizado uma segunda API para pegar tais informações para poder colocá-las no _fetch_ no arquivo .JS, para assim ter uma utilização mais agradável do usuário.
+
+
+# Tecnologia Utilizada
+
+<b>Javascript, HTML, CSS</b>
