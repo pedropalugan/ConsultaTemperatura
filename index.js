@@ -36,7 +36,7 @@ function verificarCord() {
                         img.src = "Images/thunderstorm.png"
                     }
                     else if (clima == 'Drizzle' || clima == 'drizzle' || clima == "Rain" || clima == "rain") {
-                        img.src = "Images/any_rain.png"
+                        img.src = "Images/rain.png"
                     }
                     else if (clima == "snow" || clima == "Snow") {
                         img.src = "Images/snow.png"
