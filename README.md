@@ -29,6 +29,7 @@ Como a API de informações meteorológicas necessitava de latitude e longitude,
 <hr>
 
 <h2>English</h2>
+
 <b>First project developed using API with JavaScript</b>
 
 <b>On this project, it would have to search a name of a certain city and the software would return the meteorological informations about the place searched</b>
