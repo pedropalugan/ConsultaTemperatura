@@ -56,3 +56,7 @@ As the meteorological informations API needed the latitude and longitude of the 
 # Technology Used
 
 <b>Javascript, HTML, CSS</b>
+
+# Site's Link
+
+https://pedropalugan.github.io/ConsultaTemperatura/
