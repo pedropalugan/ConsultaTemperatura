@@ -46,4 +46,8 @@ Como a API de informações meteorológicas necessitava de latitude e longitude,
 ![image](https://user-images.githubusercontent.com/88800549/156642894-1ce9d91c-263c-48ed-9e3e-e11583bddcd6.png)
 
 
-As the meteorological informations API needed the latitude and longitude of the desired place, it was used a second API to get these informations, so it could be put on the _fetch_ 
+As the meteorological informations API needed the latitude and longitude of the desired place, it was used a second API to get these informations, so it could be put on the _fetch_ on the archive .JS, so the users usability would be more pleaseful
+
+# Technology Used
+
+<b>Javascript, HTML, CSS</b>
