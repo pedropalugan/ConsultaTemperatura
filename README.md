@@ -60,3 +60,9 @@ As the meteorological informations API needed the latitude and longitude of the 
 # Site's Link
 
 https://pedropalugan.github.io/ConsultaTemperatura/
+
+<hr>
+
+# Autor / Author
+  
+  <h3>Pedro Palugan</h3>
