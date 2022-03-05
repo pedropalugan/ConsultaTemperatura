@@ -33,6 +33,11 @@ https://pedropalugan.github.io/ConsultaTemperatura/
 
 <hr>
 
+<br>
+<br>
+<br>
+<br>
+
 <h2>English</h2>
 
 <b>First project developed using API with JavaScript</b>
