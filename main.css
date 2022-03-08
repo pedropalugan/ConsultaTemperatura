@@ -65,11 +65,20 @@ body {
     }
 }
 
+@media (max-width: 520px){
+    #temperatura{
+        font-size: 20px;
+    }
+    #imagem {
+        height: 125px;
+        width: 125px;
+    }
+}
 
-@media(max-width: 420px){
-    img{
-        height: 115px;
-        width: 115px;
+@media(max-width: 480px){
+    .res #imagem {
+        height: 100px;
+        width: 100px;
     }
 }
 
@@ -81,11 +90,11 @@ body {
     #temperatura{
         font-size: 17.5px;
     }
-   img{
+   #imagem {
         width: 95px;
         height: 95px;
     } 
     .mainContent{
-        height: 380px;
+        height: 400px;
     }
 }
