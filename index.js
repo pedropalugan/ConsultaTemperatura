@@ -29,8 +29,6 @@ function verificarCord() {
                     document.getElementById("temp_max").value = 'Maximum ' + max.toFixed(2) + 'C°'
                     document.getElementById("temp_min").value = 'Minimum ' + min.toFixed(2) + 'C°'
                     let img = document.getElementById("imagem");
-                    img.style.width = "140px";
-                    img.style.height = "140px";
 
                     if (clima == 'Thunderstorm' || clima == 'thunderstorm') {
                         img.src = "Images/thunderstorm.png"
