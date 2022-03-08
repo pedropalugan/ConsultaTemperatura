@@ -55,3 +55,37 @@ body {
     flex-direction: row;
     font-size: xx-large;
 }
+
+@media(max-width: 580px){
+    .form input{
+        width: 175px;
+    }
+    #temperatura{
+        font-size: 25px;
+    }
+}
+
+
+@media(max-width: 420px){
+    img{
+        height: 115px;
+        width: 115px;
+    }
+}
+
+@media(max-width: 390px){
+    .form input{
+        width: 140px;
+        height: 36px;
+    }
+    #temperatura{
+        font-size: 17.5px;
+    }
+   img{
+        width: 95px;
+        height: 95px;
+    } 
+    .mainContent{
+        height: 380px;
+    }
+}
