@@ -67,5 +67,5 @@ function verificarCord() {
                 })
 
         })
+        .catch((erro)=> alert("Cidade não encontrada"))
 }
-
